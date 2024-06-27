@@ -9,10 +9,6 @@ redirect_from:
 
 &nbsp;
 
-I am a research assistant at the Development Impact Evaluation (DIME) group at the World Bank.
-
-My research focuses on education, health, and development.
-
-In summer 2024, I will join the Tobin Center for Economic Policy at Yale University as a pre-doctoral fellow. 
+I am a Tobin Center Pre-Doctoral Fellow at Yale University. My research focuses on education, health, and development.
 
 Here is a copy of my [CV](/files/CV_PabloUribe.pdf).
