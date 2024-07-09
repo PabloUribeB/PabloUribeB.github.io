@@ -22,7 +22,7 @@ Published in *Economics of Education Review*, 2023 (with Christian Posso and Est
 # Working papers
 <hr>
 
-- **Life in the Health Lane: The Professional Trajectories of Healthcare Workers in Colombia.** (with Grey Ceballos, Daniel Márquez and Christian Posso). [Preliminary working paper](files/Draft_LifeintheHealthLane_LabourSpecialIssue.pdf).
+- **Life in the Health Lane: The Professional Trajectories of Healthcare Workers in Colombia.** (with Grey Ceballos, Daniel Márquez and Christian Posso). [Preliminary working paper](files/Draft_LifeintheHealthLane.pdf).
 
 &nbsp;
 
