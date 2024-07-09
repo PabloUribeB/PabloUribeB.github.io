@@ -22,7 +22,7 @@ Published in *Economics of Education Review*, 2023 (with Christian Posso and Est
 # Working papers
 <hr>
 
-- **Life in the Health Lane: The Professional Trajectories of Healthcare Workers in Colombia.** (with Grey Ceballos, Daniel Márquez and Christian Posso). [Preliminary working paper](files/Draft_LifeintheHealthLane.pdf).
+- **Life in the Health Lane: The Professional Trajectories of Healthcare Workers in Colombia.** (with Grey Ceballos, Daniel Márquez and Christian Posso). [Preliminary working paper](https://github.com/PabloUribeB/PabloUribeB.github.io/blob/main/files/Draft_LifeintheHealthLane.pdf).
 
 &nbsp;
 
@@ -38,4 +38,4 @@ Published in *Economics of Education Review*, 2023 (with Christian Posso and Est
 # Policy reports
 <hr>
 
-Featured in *Informe sobre Desarrollo Humano para Colombia cuaderno 4. Educación: Motor de Igualdad, crecimiento y Desarrollo Humano*. United Nations Development Programme (UNDP) - 2023. [Download here](files/undp.pdf)
+Featured in *Informe sobre Desarrollo Humano para Colombia cuaderno 4. Educación: Motor de Igualdad, crecimiento y Desarrollo Humano*. United Nations Development Programme (UNDP) - 2023. [Download here](https://github.com/PabloUribeB/PabloUribeB.github.io/blob/main/files/undp.pdf)
