@@ -14,15 +14,38 @@ author_profile: true
 # Publications
 <hr>
 
-- **Acing the Test: Educational Effects of the SaberEs Test Preparation Program in Colombia.**
-Published in *Economics of Education Review*, 2023 (with Christian Posso and Estefania Saravia). [Paper](https://doi.org/10.1016/j.econedurev.2023.102459) / [Working paper](https://repositorio.banrep.gov.co/server/api/core/bitstreams/e796ab63-3c19-4c29-9282-afcc8fff00d6/content)
+<table style="border-collapse: collapse; width: 100%; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: top;">
+      <a href="https://doi.org/10.1016/j.econedurev.2023.102459" style="font-size: 1.2em; font-weight: bold;" target="_blank">Acing the Test: Educational Effects of the SaberEs Test Preparation Program in Colombia</a><br>
+      (with Christian Posso and Estefania Saravia).<br>
+      <em>Economics of Education Review</em>. 2023.<br>  
+  <a href="https://repositorio.banrep.gov.co/server/api/core/bitstreams/e796ab63-3c19-4c29-9282-afcc8fff00d6/content">Working paper</a>
+    </td>
+    <td style="border: none; vertical-align: top; text-align: left;">
+      <img src="/images/profile.png" style="width:600px;">
+    </td>
+  </tr>
+</table>
 
 &nbsp;
 
 # Working papers
 <hr>
 
-- **Life in the Health Lane: The Professional Trajectories of Healthcare Workers in Colombia.** (with Grey Ceballos, Daniel Márquez and Christian Posso). [Preliminary working paper](https://PabloUribeB.github.io/files/Draft_LifeintheHealthLane.pdf).
+<table style="border-collapse: collapse; width: 100%; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: top;">
+      <span style="font-size: 1.2em; font-weight: bold;" target="_blank">Life in the Health Lane: The Professional Trajectories of Healthcare Workers in Colombia.</span><br>
+      (with Grey Ceballos, Daniel Márquez and Christian Posso).<br>
+      <a href="https://PabloUribeB.github.io/files/Draft_LifeintheHealthLane.pdf">Preliminary working paper</a>
+    </td>
+    </td>
+    <td style="border: none; vertical-align: top; text-align: right;">
+      <img src="/images/profile.png" style="width:600px;">
+    </td>
+  </tr>
+</table>
 
 &nbsp;
 
