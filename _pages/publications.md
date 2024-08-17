@@ -40,7 +40,6 @@ author_profile: true
       (with Grey Ceballos, Daniel Márquez and Christian Posso).<br>
       <a href="https://PabloUribeB.github.io/files/Draft_LifeintheHealthLane.pdf">Preliminary working paper</a>
     </td>
-    </td>
     <td style="border: none; vertical-align: top; text-align: right;">
       <img src="/images/fastlane.png" style="width:500px;">
     </td>
