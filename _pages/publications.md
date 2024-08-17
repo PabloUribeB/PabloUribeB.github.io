@@ -23,7 +23,7 @@ author_profile: true
   <a href="https://repositorio.banrep.gov.co/server/api/core/bitstreams/e796ab63-3c19-4c29-9282-afcc8fff00d6/content">Working paper</a>
     </td>
     <td style="border: none; vertical-align: top; text-align: left;">
-      <img src="/images/profile.png" style="width:600px;">
+      <img src="/images/acing.jpg" style="width:500px;">
     </td>
   </tr>
 </table>
@@ -42,7 +42,7 @@ author_profile: true
     </td>
     </td>
     <td style="border: none; vertical-align: top; text-align: right;">
-      <img src="/images/profile.png" style="width:600px;">
+      <img src="/images/fastlane.png" style="width:500px;">
     </td>
   </tr>
 </table>
