@@ -13,11 +13,6 @@ A list of all the posts and pages found on the site.
   {% include archive-single.html %}
 {% endfor %}
 
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
 {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
