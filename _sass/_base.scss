@@ -314,9 +314,13 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   transition: $global-transition;
 }
 
-@media (max-width: 768px) {
- .author__avatar img {
-   width: 150px; /* Adjust this value as needed */
-   height: auto;
- }
+@media (max-width: 768px) { /* Mobile-specific styles */
+    .author__avatar img {
+        width: 50% !important; /* Make image bigger */
+        max-width: 200px !important; /* Set an upper limit */
+        height: auto !important; /* Maintain aspect ratio */
+        display: block !important; /* Ensures proper rendering */
+        margin: 0 auto !important; /* Centers the image */
+        border-radius: 50% !important; /* Ensures rounded image */
+    }
 }
