@@ -52,7 +52,6 @@ author_profile: true
 <hr>
 
 - **Heterogeneity in the Returns to Higher Education in Colombia** (with Christian Posso and Estefania Saravia).
-- **Unintended Consequences of Pension Reforms: Evidence from Colombia** (with Arlen Guarín and Christian Posso).
 - **The Effects of Specialties on Physician's Labor Market and Health** (with Daniel Márquez, Nicolás Mancera, Christian Posso and Juan David Rengifo).
 
 &nbsp;
