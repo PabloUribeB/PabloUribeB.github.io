@@ -18,7 +18,7 @@ author_profile: true
   <tr style="border: none;">
     <td style="border: none; vertical-align: top;">
       <a href="https://doi.org/10.1016/j.econedurev.2023.102459" style="font-size: 1.5em; font-weight: bold; color: black;" target="_blank">Acing the Test: Educational Effects of the SaberEs Test Preparation Program in Colombia</a><br>
-      (with [Christian Posso](https://sites.google.com/site/christianpossosuarez/) and Estefania Saravia).<br>
+      (with <a href="https://sites.google.com/site/christianpossosuarez/">Christian Posso</a> and <a href="https://sites.google.com/view/estefaniasaravia">Estefania Saravia</a>).<br>
       <em>Economics of Education Review</em>. 2023.<br>  
   <a href="https://repositorio.banrep.gov.co/server/api/core/bitstreams/e796ab63-3c19-4c29-9282-afcc8fff00d6/content">Working paper</a>
     </td>
@@ -37,7 +37,7 @@ author_profile: true
   <tr style="border: none;">
     <td style="border: none; vertical-align: top;">
       <span style="font-size: 1.5em; font-weight: bold;">Life in the Health Lane: The Professional Trajectories of Healthcare Workers in Colombia.</span><br>
-      (with Grey Ceballos, Daniel Márquez and Christian Posso).<br>
+      (with Grey Ceballos, Daniel Márquez and <a href="https://sites.google.com/site/christianpossosuarez/">Christian Posso</a>).<br>
       <a href="https://PabloUribeB.github.io/files/Draft_LifeintheHealthLane.pdf">Preliminary working paper</a>
     </td>
     <td style="border: none; vertical-align: top; text-align: right;">
@@ -51,8 +51,8 @@ author_profile: true
 # Work in progress
 <hr>
 
-- **Heterogeneity in the Returns to Higher Education in Colombia** (with Christian Posso and Estefania Saravia).
-- **The Effects of Specialties on Physician's Labor Market and Health** (with Daniel Márquez, Nicolás Mancera, Christian Posso and Juan David Rengifo).
+- **Heterogeneity in the Returns to Higher Education in Colombia** (with <a href="https://sites.google.com/site/christianpossosuarez/">Christian Posso</a> and <a href="https://sites.google.com/view/estefaniasaravia">Estefania Saravia</a>).
+- **The Effects of Specialties on Physician's Labor Market and Health** (with Daniel Márquez, Nicolás Mancera, <a href="https://sites.google.com/site/christianpossosuarez/">Christian Posso</a> and Juan David Rengifo).
 
 &nbsp;
 
