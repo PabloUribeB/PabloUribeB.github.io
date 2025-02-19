@@ -315,7 +315,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 }
 
 @media (max-width: 768px) {
- .author-profile img {
+ .author__avatar img {
    width: 150px; /* Adjust this value as needed */
    height: auto;
  }
