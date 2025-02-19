@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+  /* Target both the container and the image to ensure all restrictions are overridden */
+  .author__avatar,
+  .author__avatar img {
+    width: 150px !important;      // Adjust this value as needed for larger size
+    max-width: 150px !important;  // Ensure it doesn’t get capped by a smaller max-width
+    height: auto !important;      // Maintain the aspect ratio
+  }
+}
