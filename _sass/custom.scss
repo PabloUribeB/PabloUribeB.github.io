@@ -1,9 +1,27 @@
 @media (max-width: 768px) {
-  /* Target both the container and the image to ensure all restrictions are overridden */
+  /* Force the parent container to stack its children vertically */
+  div[itemscope] {
+    display: block !important;
+    text-align: center;
+  }
+
+  /* Make each section block-level and center its content */
   .author__avatar,
-  .author__avatar img {
-    width: 150px !important;      // Adjust this value as needed for larger size
-    max-width: 150px !important;  // Ensure it doesn’t get capped by a smaller max-width
-    height: auto !important;      // Maintain the aspect ratio
+  .author__content,
+  .author__urls-wrapper {
+    display: block !important;
+    width: 100% !important;
+    margin: 0 auto !important;
+    float: none !important;
+    text-align: center;
+  }
+
+  /* Additional spacing to separate sections */
+  .author__avatar {
+    margin-bottom: 1em;
+  }
+
+  .author__content {
+    margin-bottom: 1em;
   }
 }
