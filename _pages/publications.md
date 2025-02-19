@@ -18,7 +18,7 @@ author_profile: true
   <tr style="border: none;">
     <td style="border: none; vertical-align: top;">
       <a href="https://doi.org/10.1016/j.econedurev.2023.102459" style="font-size: 1.5em; font-weight: bold; color: black;" target="_blank">Acing the Test: Educational Effects of the SaberEs Test Preparation Program in Colombia</a><br>
-      (with Christian Posso and Estefania Saravia).<br>
+      (with [Christian Posso](https://sites.google.com/site/christianpossosuarez/) and Estefania Saravia).<br>
       <em>Economics of Education Review</em>. 2023.<br>  
   <a href="https://repositorio.banrep.gov.co/server/api/core/bitstreams/e796ab63-3c19-4c29-9282-afcc8fff00d6/content">Working paper</a>
     </td>
