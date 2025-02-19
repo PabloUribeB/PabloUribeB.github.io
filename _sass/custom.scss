@@ -9,7 +9,7 @@
   .author__avatar {
     display: block !important;
     width: 100% !important;
-    margin: 1em auto !important;  // Top:0, Right:auto, Bottom:2em, Left:auto
+    margin: 0 auto 1em auto !important;  // Top:0, Right:auto, Bottom:2em, Left:auto
     float: none !important;
     text-align: center;
   }
@@ -17,7 +17,7 @@
   .author__content {
     display: block !important;
     width: 100% !important;
-    margin: 0 auto !important;  // Increased bottom margin
+    margin: 0 auto 0.5em auto !important;  // Increased bottom margin
     float: none !important;
     text-align: center;
   }
