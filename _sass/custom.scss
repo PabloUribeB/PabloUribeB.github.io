@@ -1,33 +1,32 @@
 @media (max-width: 768px) {
-    .author__avatar img {
-    width: 200px !important;   // Increase this value as desired
-    max-width: 200px !important;
-    height: auto !important;
-  }
-  
   /* Force the parent container to stack its children vertically */
   div[itemscope] {
     display: block !important;
     text-align: center;
   }
 
-  /* Make each section block-level and center its content */
-  .author__avatar,
-  .author__content,
+  /* Set full margin values (top, right, bottom, left) so that bottom margin is larger */
+  .author__avatar {
+    display: block !important;
+    width: 100% !important;
+    margin: 0 auto 2em auto !important;  // Top:0, Right:auto, Bottom:2em, Left:auto
+    float: none !important;
+    text-align: center;
+  }
+
+  .author__content {
+    display: block !important;
+    width: 100% !important;
+    margin: 0 auto 2em auto !important;  // Increased bottom margin
+    float: none !important;
+    text-align: center;
+  }
+
   .author__urls-wrapper {
     display: block !important;
     width: 100% !important;
     margin: 0 auto !important;
     float: none !important;
     text-align: center;
-  }
-
-  /* Additional spacing to separate sections */
-  .author__avatar {
-    margin-bottom: 3em;
-  }
-
-  .author__content {
-    margin-bottom: 2em;
   }
 }
