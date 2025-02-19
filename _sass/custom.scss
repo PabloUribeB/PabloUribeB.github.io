@@ -1,4 +1,10 @@
 @media (max-width: 768px) {
+    .author__avatar img {
+    width: 200px !important;   // Increase this value as desired
+    max-width: 200px !important;
+    height: auto !important;
+  }
+  
   /* Force the parent container to stack its children vertically */
   div[itemscope] {
     display: block !important;
@@ -18,10 +24,10 @@
 
   /* Additional spacing to separate sections */
   .author__avatar {
-    margin-bottom: 1em;
+    margin-bottom: 3em;
   }
 
   .author__content {
-    margin-bottom: 1em;
+    margin-bottom: 2em;
   }
 }
