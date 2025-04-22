@@ -30,7 +30,7 @@ author_profile: true
 
 &nbsp;
 
-<!# Working papers
+<!--- Working papers
 <hr>
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
@@ -53,7 +53,7 @@ author_profile: true
 
 - **Heterogeneity in the Returns to Higher Education in Colombia** (with <a href="https://sites.google.com/site/christianpossosuarez/" target="_blank">Christian Posso</a> and <a href="https://sites.google.com/view/estefaniasaravia" target="_blank">Estefania Saravia</a>).
 - **The Effects of Specialties on Physician's Labor Market and Health** (with Daniel Márquez, Nicolás Mancera, <a href="https://sites.google.com/site/christianpossosuarez/" target="_blank">Christian Posso</a> and Juan David Rengifo).
-- **Health Impacts of Retirement Age Increases: Evidence from a Pension Reform in Colombia.
+- **Health Impacts of Retirement Age Increases: Evidence from a Pension Reform in Colombia**
 
 &nbsp;
 
