@@ -30,7 +30,7 @@ author_profile: true
 
 &nbsp;
 
-<!--- Working papers
+# Working papers
 <hr>
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
@@ -46,7 +46,7 @@ author_profile: true
   </tr>
 </table>
 
-&nbsp; -->
+&nbsp;
 
 # Work in progress
 <hr>
