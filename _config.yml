@@ -204,6 +204,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /talks/:name/
 
 
 # Defaults
