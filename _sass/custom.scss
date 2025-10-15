@@ -30,3 +30,7 @@
     text-align: center;
   }
 }
+
+details.abs { margin-top: .5rem; }
+details.abs > summary { cursor: pointer; font-weight: 600; }
+details.abs[open] > summary { margin-bottom: .25rem; }
