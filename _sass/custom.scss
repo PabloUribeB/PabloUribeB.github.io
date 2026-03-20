@@ -653,6 +653,15 @@ details.abs[open] > summary {
 }
 
 @media (max-width: 768px) {
+  .sidebar,
+  .sidebar.sticky {
+    height: auto !important;
+    max-height: none !important;
+    overflow: visible !important;
+    position: static !important;
+    top: auto !important;
+  }
+
   div[itemscope] {
     display: block !important;
     text-align: center;
