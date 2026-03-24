@@ -87,7 +87,7 @@ author_profile: true
     <p class="section-heading__eyebrow">Policy reports</p>
   </div>
   <article class="project-list__item project-list__item--report">
-    <h3>UNDP Colombia Human Development Report contribution</h3>
+    <h3>UNDP Report - Education: Engine for Equality, Growth and Human Development</h3>
     <p>Featured in <em>Informe sobre Desarrollo Humano para Colombia cuaderno 4. Educaci&oacute;n: Motor de Igualdad, crecimiento y Desarrollo Humano</em>. United Nations Development Programme (UNDP) - 2023.</p>
     <a href="https://PabloUribeB.github.io/files/undp.pdf" target="_blank">Download report</a>
   </article>
