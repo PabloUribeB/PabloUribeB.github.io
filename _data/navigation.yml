@@ -1,8 +1,9 @@
 # main links links
 main:
   - title: "Research"
-    url: /publications/ 
+    url: /publications/
   - title: "Talks"
     url: /talks/
-    
+  - title: "CV"
+    url: /files/CV_PabloUribe.pdf
 

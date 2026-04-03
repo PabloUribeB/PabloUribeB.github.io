@@ -12,15 +12,28 @@
         </div>
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
+          {% assign current_url = page.url | replace: 'index.html', '' %}
+          {% if current_url == '' %}
+            {% assign current_url = '/' %}
+          {% endif %}
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
-              {% else %}
+            {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% assign link_url = link.url | replace: 'index.html', '' %}
+            {% if link_url == '' %}
+              {% assign link_url = '/' %}
+            {% endif %}
+            {% assign is_active = false %}
+            {% if link.title != 'CV' and current_url == link_url %}
+              {% assign is_active = true %}
+            {% endif %}
+            <li class="masthead__menu-item">
+              <a href="{{ domain }}{{ link.url }}"{% if link.title == 'CV' %} target="_blank" rel="noopener"{% endif %}{% if is_active %} class="is-active" aria-current="page" style="background: var(--ink); color: #fff;"{% endif %}>{{ link.title }}</a>
+            </li>
           {% endfor %}
-          <li class="masthead__menu-item masthead__menu-item--button"><a href="{{ base_path }}/files/CV_PabloUribe.pdf" target="_blank" rel="noopener">CV</a></li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

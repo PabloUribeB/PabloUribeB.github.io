@@ -157,6 +157,16 @@ a:hover {
   color: var(--accent-strong);
 }
 
+.greedy-nav .visible-links a.is-active {
+  background: var(--ink);
+  color: #fff !important;
+}
+
+.greedy-nav .visible-links a.is-active:hover {
+  background: var(--accent-strong);
+  color: #fff !important;
+}
+
 .greedy-nav .visible-links a::before {
   display: none !important;
 }
@@ -166,15 +176,6 @@ a:hover {
 .masthead__menu,
 .greedy-nav {
   background: rgba(248, 251, 255, 0.92);
-}
-
-.masthead__menu-item--button a {
-  background: var(--ink);
-  color: #fff !important;
-}
-
-.masthead__menu-item--button a:hover {
-  background: var(--accent-strong) !important;
 }
 
 #main {
