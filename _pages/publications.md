@@ -77,7 +77,6 @@ author_profile: true
     </article>
     <article class="project-list__item">
       <h3>Knockin' on Retirement's Door: Health Effects of a Retirement-Age Increase in Colombia</h3>
-      <p>Ongoing work on retirement policy and health outcomes.</p>
     </article>
   </div>
 </section>
