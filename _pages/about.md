@@ -10,7 +10,7 @@ redirect_from:
 <section class="home-hero">
   <div class="home-hero__copy">
     <p class="home-hero__lead">
-      I am a <a href="https://tobin.yale.edu/people/pablo-uribe" target="_blank">Tobin Center Pre-Doctoral Fellow</a> at Yale University. My work studies how institutions and policy shape educational trajectories, labor markets, and health outcomes.
+      I am a <a href="https://tobin.yale.edu/people/pablo-uribe" target="_blank">Tobin Center Pre-Doctoral Fellow</a> at Yale University. My work studies how institutions and policy shape educational trajectories, labor markets, and health outcomes. This fall, I will begin my PhD in Economics at the Kenneth C. Griffin Department of Economics at the University of Chicago.
     </p>
     <div class="home-hero__actions">
       <a class="home-pill home-pill--primary" href="/publications/">View research</a>
@@ -38,7 +38,7 @@ redirect_from:
     <div class="editorial-card">
     <p class="editorial-card__label">Background</p>
       <p>
-        My research agenda focuses on education and health economics in Colombia. In the past, I worked as a Short Term Consultant for the Development Impact group (DIME) at the World Bank. I was also a research assistant at Harvard Kennedy School, the United Nations Development Programme, Banco de la República (Colombia's Central Bank), and EAFIT University.
+        My research agenda focuses on education and health economics in Colombia. In the past, I worked as a Short-Term Consultant for the Development Impact group (DIME) at the World Bank. I was also a research assistant at Harvard Kennedy School, the United Nations Development Programme, Banco de la República (Colombia's Central Bank), and EAFIT University.
       </p>
     </div>
     <div class="editorial-card editorial-card--accent">
