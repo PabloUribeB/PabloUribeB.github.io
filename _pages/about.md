@@ -23,9 +23,9 @@ redirect_from:
       <span class="metric-card__label">Research fields</span>
     </div>
     <div class="metric-card">
-      <span class="metric-card__value">Yale University</span>
+      <span class="metric-card__value">University of Chicago</span>
       <span class="metric-card__label">Current appointment</span>
-      <p>Pre-Doctoral Fellow at the Tobin Center.</p>
+      <p>PhD Student in Economics.</p>
     </div>
   </div>
 </section>
@@ -38,7 +38,7 @@ redirect_from:
     <div class="editorial-card">
     <p class="editorial-card__label">Background</p>
       <p>
-        My research agenda focuses on education and health economics in Colombia. In the past, I worked as a Short-Term Consultant for the Development Impact group (DIME) at the World Bank. I was also a research assistant at Harvard Kennedy School, the United Nations Development Programme, Banco de la República (Colombia's Central Bank), and EAFIT University.
+        My research agenda focuses on education and health economics in Colombia. In the past, I was a Pre-Doctoral Fellow in Economics at Yale University, and also worked as a Short-Term Consultant for the Development Impact group (DIME) at the World Bank. I was also a research assistant at Harvard Kennedy School, the United Nations Development Programme, Banco de la República (Colombia's Central Bank), and EAFIT University.
       </p>
     </div>
     <div class="editorial-card editorial-card--accent">
