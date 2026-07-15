@@ -7,7 +7,7 @@
   --ink-soft: #556072;
   --line: rgba(33, 42, 53, 0.12);
   --accent: #0f766e;
-  --accent-strong: #0f4d92;
+  --accent-strong: #800000;
   --accent-soft: #d9efe9;
   --gold: #c58d2c;
   --shadow: 0 22px 60px rgba(31, 36, 48, 0.1);
@@ -78,7 +78,7 @@ a:hover {
 
 .site-branding__mark {
   align-items: center;
-  background: #0f4d92;
+  background: var(--accent-strong);
   border-radius: 50%;
   box-shadow: 0 12px 28px rgba(15, 118, 110, 0.2);
   color: #fff;
