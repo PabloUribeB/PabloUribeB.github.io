@@ -10,7 +10,7 @@ redirect_from:
 <section class="home-hero">
   <div class="home-hero__copy">
     <p class="home-hero__lead">
-      I am a <a href="https://tobin.yale.edu/people/pablo-uribe" target="_blank">Tobin Center Pre-Doctoral Fellow</a> at Yale University. My work studies how institutions and policy shape educational trajectories, labor markets, and health outcomes. This fall, I will begin my PhD in Economics at the Kenneth C. Griffin Department of Economics at the University of Chicago.
+     I am an incoming PhD student in Economics at the Kenneth C. Griffin Department of Economics at the University of Chicago. My work studies how institutions and policy shape educational trajectories, labor markets, and health outcomes.
     </p>
     <div class="home-hero__actions">
       <a class="home-pill home-pill--primary" href="/publications/">View research</a>
